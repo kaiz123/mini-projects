@@ -1,0 +1,8 @@
+WavSteg.py -h -s opera.wav -f input.txt -o opera_out.wav -n 1
+
+WavSteg.py -r -s opera_out.wav -o output.txt -n 1 -b 1000
+
+
+docs:
+
+https://github.com/ragibson/Steganography
